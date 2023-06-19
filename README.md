@@ -11,3 +11,4 @@ In cadrul acestei aplicatii am folosit:<br />
 -> imprimarea documentelor<br />
 -> stocarea si regasirea datelor in baza de date (am utilizat sql server din cadul visual studio)<br />
 -> controale de utilizator folosite in mai multe formulare ale proiectului<br />
+<image>https://github.com/AnaCarp/Proiect_Csharp/assets/98180213/12e5110b-947b-4ac1-8518-93a2b360d81d</image>
